@@ -2,6 +2,6 @@
 
 Some Description!
 
-## sub heding
+## sub haeding
 
-watch videos on youtube
+watch git tutorial on youtube channel is Free Code Camp
