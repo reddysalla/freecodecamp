@@ -4,4 +4,4 @@ Some Description!
 
 ## sub haeding
 
-watch git tutorial on youtube channel is Free Code Camp
+watch git tutorial on youtube channel is Free Code Camp, please like and subscribe
